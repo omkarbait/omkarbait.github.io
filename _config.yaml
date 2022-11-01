@@ -1,0 +1,38 @@
+author:
+  name: Omkar Bait
+  avatar: '/assets/images/avatar.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: 'I am an astronomer.'
+  location: 'Geneva, Switzerland'
+  email: 'omkar.bait@unige.ch'
+  links:
+    - label: 'Website'
+      icon: 'fas fa-fw fa-link'
+      url: 'https://omkarbait.github.io'
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
+      url: &twitterUrl 'https://twitter.com/omkarbait'
+    - label: 'LinkedIn'
+      icon: 'fab fa-fw fa-linkedin'
+      url: &linkedinUrl 'https://linkedin.com/omkarbait'
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: &githubUrl 'https://github.com/omkarbait'
+    # - label: 'Facebook'
+    #   icon: 'fab fa-fw fa-facebook-square'
+    #   url: &fbUrl 'https://www.facebook.com/'
+    # - label: 'StackOverflow'
+    #   icon: 'fab fa-fw fa-stack-overflow'
+    #   url: &stackOverflowUrl 'https://stackoverflow.com/'
+
+# Site Footer
+footer:
+  links:
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
+      url: *twitterUrl
+    - label: 'LinkedIn'
+      icon: 'fab fa-fw fa-linkedin'
+      url: *linkedinUrl
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: *githubUrl
