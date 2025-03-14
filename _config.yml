@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "Omkar Bait"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an astronomer.."
-  location         : "Geneve, Switzerland"
-  email            : "omkar.bait@unige.ch"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an observational astronomer working primariy in radio astronomy."
+  location         : "Manchester, UK"
+  email            : "omkar.bait@skao.int"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
