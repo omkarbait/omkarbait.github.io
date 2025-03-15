@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Omkar Bait"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello! I am an observational radio astronomer with strong focus on AI applications."
   location         : "Manchester, UK"
