@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Omkar Bait"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Omkar Bait"
+  name             : ""
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an observational astronomer working primariy in radio astronomy."
+  bio              : "Hello! I am an observational radio astronomer with strong focus on AI applications."
   location         : "Manchester, UK"
   email            : "omkar.bait@skao.int"
   links:
