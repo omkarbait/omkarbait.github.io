@@ -4,9 +4,6 @@ author_profile: true
 permalink: /
 ---
 
-# Welcome
-
-
 I am a post-doctoral at the SKA Observatory in the UK. My research primarirly focusses on understanding how Lyman Continuum and Lyman-alpha photons leaks from galaxies.
 
 Before joining SKAO I was a postdoc at the Observatoire de Geneve, Switzerland working with Prof. Daniel Schaerer in the Starbursts in the Universe group. I completed my Ph.D in "Star-formation in and around nearby galaxies" from the National Centre for Radio Astrophyscis, Pune, India under the supervision of Prof. Yogesh Wadadekar in 2020.
