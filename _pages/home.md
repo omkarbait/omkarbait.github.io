@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: Omkar Bait
+title: 
 permalink: /
 ---
 
