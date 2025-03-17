@@ -10,5 +10,5 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
-gem 'nokogiri', '< 1.16.2'
-gem 'logger', '1.6.6'
+#gem 'nokogiri', '< 1.16.2'
+#gem 'logger', '1.6.6'

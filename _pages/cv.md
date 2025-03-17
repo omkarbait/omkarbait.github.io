@@ -27,21 +27,18 @@ Education
 * B.Sc. in Physics, University of Mumbai, 2011
 
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Radio Continuum and Neutral (HI) study of Lyman Continuum emitting and metal-poor starburts 
+* Multi-wavelength spectral energy distribution (SED) modelling of galaxies
+* Novel AI-based radio data analysis algorithms
+* Radio Interferometric Simulations
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+The full list of my publications can be found in the [NASA ADS library](https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FGL_MvN03RZq4XZykVMdRZg)&sort=date%20desc%2C%20bibcode%20desc).
+
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
