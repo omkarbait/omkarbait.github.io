@@ -1,21 +1,17 @@
 ---
-layout: splash
-title: Research
-author_profile: true
 permalink: /research/
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 
-
-## Extreme Galaxies -- From Extreme Starburts to Red and Dead Galaxies
-
-
-Lorem ipsum ....
-
-## AI applications in Radio Astronomy
+## Extreme Galaxies -- from starbursts to red and dead galaxies
 
 
-Lorem ipsum ......
+## AI in Radio Astronomy
 
 
-## AI for Efficient Estimation of Galaxy Physical Properties
+## AI to accelerate galaxy physical parameter estimation
