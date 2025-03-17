@@ -45,6 +45,14 @@ Publications
 The full list of my publications can be found in my [NASA ADS library](https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FGL_MvN03RZq4XZykVMdRZg)&sort=date%20desc%2C%20bibcode%20desc).
 
 
+Observing Experience
+======
+I have extensive observing experience with the Giant Metre Wave Radio Telescope (GMRT), VLA
+and MeerKAT. I have been allocated more than 300 hours of GMRT time and another ∼200 hours to
+the VLA. Recently, we are also undergoing a large MeerKAT observing program. I have also been allotted
+observing time on the Canada France Hawaii Telescope (CFHT), South African Large Telescope (SALT)
+and UV Imaging Telescope (UVIT) on ASTROSAT. 
+
 Recent Talks
 ======
   <ul>{% for post in site.talks reversed %}
