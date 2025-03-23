@@ -13,7 +13,7 @@ title                    : "Omkar Bait"
 title_separator          : "-"
 name                     : &name "Omkar Bait"
 description              : &description "personal description"
-url                      : https://omkarbait.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://omkarbait.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -40,7 +40,8 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-
+  ads              : "https://ui.adsabs.harvard.edu/public-libraries/GL_MvN03RZq4XZykVMdRZg"
+                   
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
@@ -80,7 +81,8 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    #title: 'Journal Articles'    
+    title: 'Selected Articles'    
   conferences:
     title: 'Conference Papers'
 
@@ -282,7 +284,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: splash
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
