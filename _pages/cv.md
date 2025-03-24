@@ -27,7 +27,7 @@ Work experience
 
 Education
 ======
-* Ph.D in Physics (Astrophysics), NCRA-TIFR, Pune, 2020
+* Ph.D in Physics (Astrophysics), NCRA-TIFR, Pune, 2020, Download my thesis [here](https://doi.org/10.5281/zenodo.15069473)
 * M.Sc. in Physics, Indian Institute of Technology, Kanpur, 2013
 * B.Sc. in Physics, University of Mumbai, 2011
 
