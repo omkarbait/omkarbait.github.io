@@ -16,7 +16,12 @@ Below is my CV in brief.
 
 Work experience
 ======
-* Post-doctoral Fellow  -- Sept. 2024 to Present
+
+* CosmicAI Fellow  -- Oct. 2025 to Present
+  * National Radio Astronomy Observatory (NRAO), Charlottesville, VA, USA
+  * [CosmicAI](https://www.cosmicai.org) instiute
+
+* Post-doctoral Fellow  -- Sept. 2024 to Oct. 2025
   * SKA Observatory, Jodrell Bank, Manchester, UK
   * Working in the SKA Science Team
 
